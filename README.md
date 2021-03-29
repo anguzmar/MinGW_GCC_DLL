@@ -9,16 +9,10 @@ Note that I am pretty much clueless about good practices.
 
 # Usage
 1. Clone this repository and navigate into its folder.
-2. Compile the code:
-
-```powershell
-make
-make clean
-```
-
+2. Compile the code: `make`.
 3. Run the executable: `.\test_dll.exe`.
 
-If everything went correctly, you should obtain a fairly large random number.
+If everything worked correctly, you should obtain a fairly large random number.
 
 # References
 Main resources I used for this project:
