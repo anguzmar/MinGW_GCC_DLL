@@ -8,10 +8,12 @@ This is a small project I made in order to learn the following things:
 
 Note that I am pretty much clueless about good practices.
 
-# Usage
+# Compiling and Usage
 1. Clone this repository and navigate into its folder.
-2. Compile the code: `make`.
-3. Run the executable: `.\test_dll.exe`.
+2. Compile the code: `make`. Which generates:
+  * **random.dll**. Library that contains the `random()` function.
+  * **test_dll.exe**. Dummy executable that imports **random.dll** and calls the random function.
+4. Run the executable: `.\test_dll.exe`.
 
 If everything worked correctly, you should obtain a fairly large random number.
 
