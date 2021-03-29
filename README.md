@@ -3,7 +3,7 @@ This is a small project I made in order to learn the following things:
   * How to make and compile a DLL using MinGW GCC.
   * How to use the Windows Crypto API (CNG).
   * Makefiles. I knew what they were but I never made one myself.
-  * Windows development.ç
+  * Windows development.
   * Tiny bit of C++, which I had never touched before.
 
 Note that I am pretty much clueless about good practices.
