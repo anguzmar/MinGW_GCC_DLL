@@ -13,7 +13,7 @@ Note that I am pretty much clueless about good practices.
 2. Compile the code: `make`, which generates:
    * **random.dll**. Library that contains the `random()` function.
    * **test_dll.exe**. Dummy executable that imports **random.dll** and calls the random function.
-4. Run the executable: `.\test_dll.exe`.
+4. Run the executable: `.\test_dll.exe`. Since this is a console application, run it from powershell or CMD to see the output.
 
 If everything worked correctly, you should obtain a fairly large random number.
 
