@@ -10,7 +10,7 @@ Note that I am pretty much clueless about good practices.
 
 # Compiling and Usage
 1. Clone this repository and navigate into its folder.
-2. Compile the code: `make`. Which generates:
+2. Compile the code: `make`, which generates:
    * **random.dll**. Library that contains the `random()` function.
    * **test_dll.exe**. Dummy executable that imports **random.dll** and calls the random function.
 4. Run the executable: `.\test_dll.exe`.
